@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\bin\Debug\business.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\bin\Debug\business.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\bin\Debug\business.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\obj\Debug\business.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\obj\Debug\business.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week2\week2\business\business\obj\Debug\business.pdb
