@@ -1,0 +1,4 @@
+marines,10000
+diamond,50000
+square,60000
+deplex,70000
