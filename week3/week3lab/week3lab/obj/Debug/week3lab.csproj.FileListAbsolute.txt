@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\bin\Debug\week3lab.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\bin\Debug\week3lab.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\bin\Debug\week3lab.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\obj\Debug\week3lab.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\obj\Debug\week3lab.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\obj\Debug\week3lab.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week3\week3lab\week3lab\obj\Debug\week3lab.pdb
