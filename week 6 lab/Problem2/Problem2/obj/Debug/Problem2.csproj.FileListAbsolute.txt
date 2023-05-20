@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Problem2\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\hp\source\repos\Problem2\Problem2\bin\Debug\Problem2.exe
+C:\Users\hp\source\repos\Problem2\Problem2\bin\Debug\Problem2.pdb
+C:\Users\hp\source\repos\Problem2\Problem2\obj\Debug\Problem2.exe
+C:\Users\hp\source\repos\Problem2\Problem2\obj\Debug\Problem2.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\obj\Debug\Problem2.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\obj\Debug\Problem2.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\bin\Debug\Problem2.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\Problem2\Problem2\bin\Debug\Problem2.pdb

@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\week6\week6\obj\Debug\week6.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\week6\week6\obj\Debug\week6.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\bin\Debug\week6.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\bin\Debug\week6.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\bin\Debug\week6.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\obj\Debug\week6.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\obj\Debug\week6.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\obj\Debug\week6.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\week6\week6\obj\Debug\week6.pdb
