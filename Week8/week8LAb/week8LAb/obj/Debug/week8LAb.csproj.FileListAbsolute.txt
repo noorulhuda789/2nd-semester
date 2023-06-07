@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\bin\Debug\week8LAb.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\bin\Debug\week8LAb.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\bin\Debug\week8LAb.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\obj\Debug\week8LAb.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\obj\Debug\week8LAb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\obj\Debug\week8LAb.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\Week8\week8LAb\week8LAb\obj\Debug\week8LAb.pdb
