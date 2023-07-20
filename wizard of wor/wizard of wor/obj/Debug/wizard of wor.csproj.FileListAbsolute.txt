@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\bin\Debug\wizard of wor.exe.config
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\bin\Debug\wizard of wor.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\bin\Debug\wizard of wor.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\obj\Debug\wizard of wor.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\obj\Debug\wizard of wor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\obj\Debug\wizard of wor.exe
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\obj\Debug\wizard of wor.pdb
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\bin\Debug\EZInput.dll
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\bin\Debug\EZInput.xml
+C:\Users\hp\Documents\2nd semester\opp and pd\wizard of wor\wizard of wor\obj\Debug\wizard of wor.csproj.CopyComplete
