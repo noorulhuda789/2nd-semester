@@ -1,0 +1,27 @@
+D:\GitHub\Project\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe.config
+D:\GitHub\Project\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe
+D:\GitHub\Project\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.pdb
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.AssemblyReference.cache
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Properties.Resources.resources
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.GenerateResource.cache
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.exe
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.pdb
+D:\GitHub\Project\PacmanGUI\PacmanGUI\bin\Debug\EZInput.dll
+D:\GitHub\Project\PacmanGUI\PacmanGUI\bin\Debug\EZInput.xml
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Form1.resources
+D:\GitHub\Project\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CopyComplete
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe.config
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.exe
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\bin\Debug\PacmanGUI.pdb
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\bin\Debug\EZInput.dll
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\bin\Debug\EZInput.xml
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Form1.resources
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.Properties.Resources.resources
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.GenerateResource.cache
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.csproj.CopyComplete
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.exe
+C:\Users\hp\Documents\2nd semester\PacmanGUI\PacmanGUI\obj\Debug\PacmanGUI.pdb
